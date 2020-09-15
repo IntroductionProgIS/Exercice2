@@ -18,9 +18,7 @@ The aim of this exercise is to create a file selector containing:
       3. Browse for the SceneBuilder Executable to the location of your .exe or .app file you found earlier
 	
 
-2. Import this project in Eclipse
-
-  *To import this project in eclipse, you should open Eclipse and follow these steps:*
+2. Import this project in Eclipse *To import this project in eclipse, you should open Eclipse and follow these steps:*
    1. *Go to File \> Import...*
    2. *Select Git \> Projects from Git*
    3. *Select Clone URI*
