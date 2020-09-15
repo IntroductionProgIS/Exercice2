@@ -9,13 +9,13 @@ The aim of this exercise is to create a file selector containing:
 <p align="center"><img src="/img/fileSelector.png" width="300"></p>
 
 1. Install SceneBuilder
-  1. Go to this link to download the fitting SceneBuilder for Java11 installation for your OS : https://gluonhq.com/products/scene-builder/
-  2. Execute the downloaded file and follow the instructions
-  3. When the installation is finished, look for the SceneBuilder.exe or SceneBuilder.app location in your system
-  4. Inside Eclipse : 
-    1. Go to Window \> Preferences
-    2. Select JavaFX tab
-    3. Browse for the SceneBuilder Executable to the location of your .exe or .app file you found earlier
+   1. Go to this link to download the fitting SceneBuilder for Java11 installation for your OS : https://gluonhq.com/products/scene-builder/
+   2. Execute the downloaded file and follow the instructions
+   3. When the installation is finished, look for the SceneBuilder.exe or SceneBuilder.app location in your system
+   4. Inside Eclipse : 
+      1. Go to Window \> Preferences
+      2. Select JavaFX tab
+      3. Browse for the SceneBuilder Executable to the location of your .exe or .app file you found earlier
 	
 
 2. Import this project in Eclipse
