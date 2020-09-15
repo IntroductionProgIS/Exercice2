@@ -32,6 +32,6 @@ The aim of this exercise is to create a file selector containing:
 4. Create a run configuration for this project, inside Run As \> Run Configurations, with Main.java as the main class. Inside Arguments for this configuration, add inside the VM arguments : "--add-module=javafx.controllers --add-module=javafx.fxml"
 
 5. Complete the project view by creating it inside SceneBuilder.
-> * Create a file "sample.fxml" inside the application package, right click on it and select * Open in SceneBuilder *
+   * Create a file "sample.fxml" inside the application package, right click on it and select * Open in SceneBuilder *
 
 
