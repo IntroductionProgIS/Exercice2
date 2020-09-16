@@ -29,7 +29,7 @@ The aim of this exercise is to create a file selector containing:
 
 3. Setup the project properties to add the .jar from javafx to the project
 
-4. Create a run configuration for this project, inside Run As \> Run Configurations, with Main.java as the main class. Inside Arguments for this configuration, add inside the VM arguments : "--add-module=javafx.controls --add-module=javafx.fxml"
+4. Create a run configuration for this project, inside Run As \> Run Configurations, with Main.java as the main class. Inside Arguments for this configuration, add inside the VM arguments : "--add-modules=javafx.controls --add-modules=javafx.fxml"
 
 5. Complete the project view by creating it inside SceneBuilder.
    * Create a file "sample.fxml" inside the application package, right click on it and select * Open in SceneBuilder *
