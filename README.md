@@ -22,7 +22,7 @@ The aim of this exercise is to create a file selector containing:
    1. *Go to File \> Import...*
    2. *Select Git \> Projects from Git*
    3. *Select Clone URI*
-   4. *Fill the URI box with `https://github.com/IntroductionProgIS/Exercise2.git` (All the other parts should be automatically filled)*
+   4. *Fill the URI box with `https://github.com/IntroductionProgIS/Exercice2.git` (All the other parts should be automatically filled)*
    5. *Click on "Next", "Next" and "Finish"*
 
 > *To see the tasks that you need to do in a project: Go to Eclipse and select Window \> Show View \> Tasks*
